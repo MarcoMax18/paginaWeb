@@ -1,0 +1,12 @@
+/* Estilos adicionales personalizados */
+body {
+    padding-top: 60px;
+}
+
+.serie {
+    margin-bottom: 20px;
+}
+
+.serie img {
+    max-width: 100%;
+}
